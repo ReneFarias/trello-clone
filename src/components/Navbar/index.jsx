@@ -13,7 +13,7 @@ export default function Navbar() {
       <AppBar position="static" sx={{ backgroundColor: "#ffffff31" }}>
         <Toolbar>
             <Box display="flex" justifyContent="center" width="100%">
-                <Box component="img" width="120px" src="/assets/logo-trello.png"/>
+                <Box component="img" width="120px" src="https://raw.githubusercontent.com/ReneFarias/trello-clone/gh-pages/assets/logo-trello.png"/>
             </Box>
           {/*<IconButton
             size="large"
